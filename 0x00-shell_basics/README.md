@@ -6,3 +6,4 @@ ls -al: list files including hidden files
 ls -lan : list files including hidden files in long format with numerical user and group IDs
 mkdir folder_name : created a directory
 mv file destination : moves a file to a oaricular destination
+rm path/filename : deletes a file
