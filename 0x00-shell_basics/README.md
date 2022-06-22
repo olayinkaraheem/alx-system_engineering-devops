@@ -10,3 +10,4 @@ rm path/filename : deletes a file
 rmdir path/foldername/ : deletes a directory
 cd ../ : go back to previous directory
 ls -al dir1 dir2 dir3 : list the content of dir1 dir2 dir3
+file filename : prints the file type filename is
