@@ -13,3 +13,4 @@ ls -al dir1 dir2 dir3 : list the content of dir1 dir2 dir3
 file filename : prints the file type filename is
 ln -s dir name: creates a symbolic link to 'dir' with name 'name'
 cp -u source target: copies from source to target, skip if already exist in target or uodate newer version
+mv [[:upper:]]* dest : move all files starting with uppercase letter to dest
