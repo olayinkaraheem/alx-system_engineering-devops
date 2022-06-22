@@ -8,3 +8,4 @@ mkdir folder_name : created a directory
 mv file destination : moves a file to a oaricular destination
 rm path/filename : deletes a file
 rmdir path/foldername/ : deletes a directory
+cd ../ : go back to previous directory
