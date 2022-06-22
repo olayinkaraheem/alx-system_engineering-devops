@@ -11,3 +11,4 @@ rmdir path/foldername/ : deletes a directory
 cd ../ : go back to previous directory
 ls -al dir1 dir2 dir3 : list the content of dir1 dir2 dir3
 file filename : prints the file type filename is
+ln dir name: creates a symbolic link to 'dir' with name 'name'
