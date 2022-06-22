@@ -7,3 +7,4 @@ ls -lan : list files including hidden files in long format with numerical user a
 mkdir folder_name : created a directory
 mv file destination : moves a file to a oaricular destination
 rm path/filename : deletes a file
+rmdir path/foldername/ : deletes a directory
