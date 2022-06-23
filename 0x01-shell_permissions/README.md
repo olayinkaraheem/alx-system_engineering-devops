@@ -10,5 +10,7 @@
  - touch
 ## adds execute permission to the owner of the file
  - chmod
+## creates a directory with permissions
+ - mkdir -m
 ## changes the group owner
  - chgrp
