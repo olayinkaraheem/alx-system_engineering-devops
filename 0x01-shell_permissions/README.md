@@ -10,3 +10,5 @@
  - touch
 ## adds execute permission to the owner of the file
  - chmod
+## changes the group owner
+ - chgrp
