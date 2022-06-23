@@ -8,3 +8,5 @@
  - chown
 ## create an empty file
  - touch
+## adds execute permission to the owner of the file
+ - chmod
