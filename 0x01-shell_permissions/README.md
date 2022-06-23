@@ -14,3 +14,5 @@
  - mkdir -m
 ## changes the group owner
  - chgrp
+## mirrors a mode
+ - chomd --reference=RFILE
