@@ -1,3 +1,3 @@
 ## Print to standard output
-```echo "Hello, World""
+```echo "Hello, World"
 ```
