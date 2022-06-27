@@ -9,3 +9,6 @@
 
 ## Display the last n lines of a file
  - tail -n number_of_lines file_name
+
+## Display the first n lines of a file
+ - head -n number_of_lines file_name
