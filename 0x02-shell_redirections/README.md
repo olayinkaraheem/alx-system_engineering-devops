@@ -12,3 +12,6 @@
 
 ## Display the first n lines of a file
  - head -n number_of_lines file_name
+
+## Display the content of nth line of a file
+ - head -n line_number file_name | tail
