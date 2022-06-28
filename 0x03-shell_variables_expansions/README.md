@@ -15,3 +15,6 @@
 
 ## Print local variables
  - set
+
+## Creates a new local varible BEST with value 'School'
+ - BEST="School"
