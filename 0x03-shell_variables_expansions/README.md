@@ -6,3 +6,6 @@
 
 ## Save last working directory to PATH
  - echo PATH="$OLDPWD"
+
+## Add directory to path
+ - export PATH="$PATH:/<directory_name>"
