@@ -14,4 +14,4 @@
  - env
 
 ## Print local variables
- - printenv
+ - set
