@@ -18,3 +18,6 @@
 
 ## Creates a new local varible BEST with value 'School'
  - BEST="School"
+
+## Creates a new global varible BEST with value 'School'
+ - export BEST="School"
