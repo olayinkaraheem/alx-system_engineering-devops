@@ -9,3 +9,9 @@
 
 ## Add directory to path
  - export PATH="$PATH:/<directory_name>"
+
+## Print global environment variables
+ - env
+
+## Print local variables
+ - printenv
